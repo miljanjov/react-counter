@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    height: 100vh;
+}
+
+.title {
+    color: white;
+    font-size: 3rem;
+}
+
+.counter {
+   color: white;
+   font-size: 3rem;
+   margin-top: 2rem;
+}
+
+.button {
+    background-color: gray;
+    width: 16rem;
+    height: 3rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+    border: none;
+    font-size: 2rem;
+}
+
+.saved {
+    color: white;
+}
